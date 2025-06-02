@@ -26,7 +26,7 @@ Reposistório do Trabalho Tech Challenge - Fase 1 - Grupo 85 - PÓS IA para Devs
 
     Você pode baixar o dataset completo neste link:
     
-    [Insurance Dataset](https://www.kaggle.com/datasets/thedevastator/prediction-of-insurance-charges-using-age-gender](https://github.com/FIAP-5IADT-GRUPO85/tech_challenge_fase_01/blob/main/Dataset/insurance-grupo-85.csv))
+    [Insurance Dataset](https://github.com/FIAP-5IADT-GRUPO85/tech_challenge_fase_01/blob/main/Dataset/insurance-grupo-85.csv)
     
     
     ou direto do Kaggle (de onde foi extraída essa base):
