@@ -9,7 +9,8 @@ Reposistório do Trabalho Tech Challenge - Fase 1 - Grupo 85 - PÓS IA para Devs
 └── README.md
 
     •	Dataset/: Contém o CSV com todas as variáveis utilizadas no desenvolvimento do modelo.
-    •	notebook/: Jupyter Notebooks com análise exploratória, engenharia de atributos e treinamento dos modelos.
+    •	notebook/: Jupyter Notebooks com análise exploratória, engenharia de atributos e
+        treinamento dos modelos.
 
 ```
 
