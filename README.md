@@ -1,8 +1,8 @@
 ├── README.md
 ├── Dataset/
-│ └── insurance-grupo-85.csv
-├── notebook/
-│ └── Tech_Challenge_Grupo_85_Insurance.ipynb
+│   └── insurance-grupo-85.csv
+└── notebook/
+    └── Tech_Challenge_Grupo_85_Insurance.ipynb
 
     •	Dataset/: Contém o CSV com todas as variáveis utilizadas no desenvolvimento do modelo.
     •	notebook/: Jupyter Notebooks com análise exploratória, engenharia de atributos e treinamento dos modelos.
