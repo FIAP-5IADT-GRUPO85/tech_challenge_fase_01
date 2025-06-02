@@ -16,7 +16,7 @@ Reposistório do Trabalho Tech Challenge - Fase 1 - Grupo 85 - PÓS IA para Devs
 
 <h2>* Dataset </h2>
 
-O conjunto de dados utilizado é uma versão pré-processada do arquivo original disponibilizado pelos organizadores do desafio. Ele inclui informações como: <br/>
+O conjunto de dados utilizado é uma base de Insurance extraída do Kaggle. Ele inclui informações como: <br/>
 • age: idade do indivíduo. <br/>
 • sex: gênero (male/female). <br/>
 • bmi: índice de massa corporal. <br/>
